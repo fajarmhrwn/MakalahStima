@@ -60,7 +60,7 @@ Program pembuatan permainan `Tower of Hanoi` sekaligus penyusunan solusi otomati
     ```
 2. Clone this repository
     ```bash
-    git clone diisi repomu
+    https://github.com/fajarmhrwn/MakalahStima
     ```
 
 <a name="usage"></a>
