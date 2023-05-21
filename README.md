@@ -82,7 +82,7 @@ Program pembuatan permainan `Tower of Hanoi` sekaligus penyusunan solusi otomati
 ## Video Capture
 <nl>
 
-<!-- ![Tower of Hanoi Gif](https://github.com/rifqifarhansyah/FoodFill-SimplePaint/blob/main/img/FoodFill.gif?raw=true)  iki diganti ambek link gif e sek wis mbok upload nang repo-->
+<!-- ![Tower of Hanoi Gif](https://github.com/rifqifarhansyah/FoodFill-SimplePaint/blob/main/img/FoodFill.gif?raw=true) -->
 
 <a name="screenshots"></a>
 
