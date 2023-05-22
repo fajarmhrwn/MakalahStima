@@ -11,13 +11,12 @@
 4. [Technologies Used](#technologies-used)
 5. [Setup](#setup)
 6. [Usage](#usage)
-7. [Video Capture](#videocapture)
-8. [Screenshots](#screenshots)
-9. [Structure](#structure)
-10. [Project Status](#project-status)
-11. [Room for Improvement](#room-for-improvement)
-12. [Acknowledgements](#acknowledgements)
-13. [Contact](#contact)
+7. [Screenshots](#screenshots)
+8. [Structure](#structure)
+9. [Project Status](#project-status)
+10. [Room for Improvement](#room-for-improvement)
+11. [Acknowledgements](#acknowledgements)
+12. [Contact](#contact)
 
 <a name="general-information"></a>
 
@@ -78,13 +77,6 @@ Program pembuatan permainan `Tower of Hanoi` sekaligus penyusunan solusi otomati
 4. Program siap dimainkan!
 
 <a name="videocapture"></a>
-
-## Video Capture
-<nl>
-
-<!-- ![Tower of Hanoi Gif](https://github.com/fajarmhrwn/MakalahStima/blob/main/img/hanoi.gif) -->
-
-<a name="screenshots"></a>
 
 ## Screenshots
 <p>
