@@ -60,7 +60,7 @@ Program pembuatan permainan `Tower of Hanoi` sekaligus penyusunan solusi otomati
     ```
 2. Clone this repository
     ```bash
-    https://github.com/fajarmhrwn/MakalahStima
+    https://github.com/fajarmhrwn/TowerofHanoiSolutionBFS.git
     ```
 
 <a name="usage"></a>
@@ -103,7 +103,6 @@ Program pembuatan permainan `Tower of Hanoi` sekaligus penyusunan solusi otomati
 │   requirements.txt
 │
 ├───doc
-│       13521080-FajarMaulanaHerawan.doc
 │       13521080-FajarMaulanaHerawan.pdf
 │
 ├───img
