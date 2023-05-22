@@ -85,13 +85,13 @@ Program pembuatan permainan `Tower of Hanoi` sekaligus penyusunan solusi otomati
 ## Screenshots
 <p>
   <p>Gambar 1. Tampilan Awal</p>
-  <img src="/img/SS1.png/">
+  <img src="/img/Gambar1.png/">
   <nl>
   <p>Gambar 2. Proses Penyelesaian</p>
-  <img src="/img/SS2.png/">
+  <img src="/img/Gambar2.png/">
   <nl>
   <p>Gambar 3. Kondisi Akhir</p>
-  <img src="/img/SS3.png/">
+  <img src="/img/Gambar3.png/">
   <nl>
 </p>
 
@@ -108,9 +108,9 @@ Program pembuatan permainan `Tower of Hanoi` sekaligus penyusunan solusi otomati
 ├───img
 │       hanoi.gif
 │       icon.png
-│       SS1.png
-│       SS2.png
-│       SS3.png
+│       Gambar1.png
+│       Gambar2.png
+│       Gambar3.png
 │
 └───src
         disk.py
