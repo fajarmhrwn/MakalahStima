@@ -77,7 +77,10 @@ Program pembuatan permainan `Tower of Hanoi` sekaligus penyusunan solusi otomati
 4. Program siap dimainkan!
 
 <a name="videocapture"></a>
+## Video Capture
+<nl>
 
+![Tower of Hanoi Gif](/img/hanoi.gif)
 ## Screenshots
 <p>
   <p>Gambar 1. Tampilan Awal</p>
