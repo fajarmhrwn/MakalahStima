@@ -103,7 +103,7 @@ Program pembuatan permainan `Tower of Hanoi` sekaligus penyusunan solusi otomati
 │   requirements.txt
 │
 ├───doc
-│       13521080-FajarMaulanaHerawan.pdf
+│       MakalahStima-13521080.pdf
 │
 ├───img
 │       hanoi.gif
